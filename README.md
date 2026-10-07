@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/profile.jpg" alt="Mohamed Abou El Fotouh" width="180">
-</p>
+
 
 <h1 align="center">👋 Hi, I'm Mohamed Abou El Fotouh</h1>
 
